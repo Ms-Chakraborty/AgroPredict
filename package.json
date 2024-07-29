@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "amqplib": "^0.10.4",
+    "css": "^3.0.0",
+    "dayjs": "^1.11.12",
+    "moment": "^2.30.1",
+    "tailwind": "^4.0.0",
+    "uuid": "^10.0.0"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.19",
+    "postcss": "^8.4.40",
+    "tailwindcss": "^3.4.7"
+  },
+  "name": "chatgpt-clone-youtube-main",
+  "version": "1.0.0",
+  "main": "postcss.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
